@@ -1,0 +1,20 @@
+{
+  "name": "module19-challenge",
+  "version": "1.0.0",
+  "description": "A budget tracker app that will allow the user to add expenses and make deposits while also showing the user a money balance. The app has offline functionality as well.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osbym/module19-budget-track.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osbym/module19-budget-track/issues"
+  },
+  "homepage": "https://github.com/osbym/module19-budget-track#readme"
+}
