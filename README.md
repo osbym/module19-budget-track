@@ -30,9 +30,15 @@ A budget tracker app that will allow the user to add expenses and make deposits 
 
 [Heroku]()
 
+# Deployed Link
+
+[Click Here: Budget Tracker]( https://immense-bayou-13983.herokuapp.com/)
+
 # Mock-Up
 
+![Screen Shot 2022-01-28 at 1 01 14 AM](https://user-images.githubusercontent.com/87884472/151504197-db79de64-8834-4a33-8db6-0e12bb434a87.png)
 
 
 
-# Created with ❤ by [Marcus Osby](https://github.com/osbym)
+
+### Created with ❤ by [Marcus Osby](https://github.com/osbym)
